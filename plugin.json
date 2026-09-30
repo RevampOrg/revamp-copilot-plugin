@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "revamp-website-builder",
+  "version": "1.0.0",
+  "description": "Create or redesign websites and build web apps with Revamp by chatting. Start projects, check previews, and refine the result from GitHub Copilot.",
+  "author": {
+    "name": "Revamp",
+    "email": "contact@revamp.dev"
+  },
+  "homepage": "https://revamp.dev/",
+  "repository": "https://github.com/RevampOrg/revamp-copilot-plugin",
+  "license": "MIT",
+  "keywords": [
+    "website-builder",
+    "website-redesign",
+    "web-app",
+    "mcp"
+  ]
+}
